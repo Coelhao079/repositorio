@@ -28,7 +28,7 @@ Sou proativo, com facilidade de adaptação e foco na resolução de problemas.
 ## 📫 Contato
 
 - Email: lucascoelhodecastro2424@gmail.com
-- LinkedIn: [Adicione seu link aqui]
+- LinkedIn: [www.linkedin.com/in/lucas-coelho-de-castro-a46873224]
 
 ## 📌 Objetivo do Repositório
 
