@@ -1,4 +1,8 @@
-# repositorio
+🚀 **Link da Aplicação Publicada (Deploy):** https://focustask-lucas.streamlit.app/
+
+---
+
+ # repositorio
 projetos academicos e profissionais
 # Portfolio de Lucas Coelho de Castro
 
